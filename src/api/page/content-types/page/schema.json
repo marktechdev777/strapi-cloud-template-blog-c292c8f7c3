@@ -27,6 +27,11 @@
     },
     "content": {
       "type": "richtext"
+    },
+    "schema": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.schema"
     }
   }
 }

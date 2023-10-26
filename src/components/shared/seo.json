@@ -53,11 +53,6 @@
     },
     "htmlLang": {
       "type": "string"
-    },
-    "Schema": {
-      "type": "component",
-      "repeatable": false,
-      "component": "shared.schema"
     }
   }
 }
