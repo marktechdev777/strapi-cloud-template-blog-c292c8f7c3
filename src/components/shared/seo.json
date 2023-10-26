@@ -16,13 +16,48 @@
       "type": "text",
       "required": true
     },
-    "shareImage": {
+    "ogImage": {
       "type": "media",
       "multiple": false,
       "required": false,
       "allowedTypes": [
         "images"
       ]
+    },
+    "ogLocale": {
+      "type": "string"
+    },
+    "ogType": {
+      "type": "string"
+    },
+    "ogTitle": {
+      "type": "string"
+    },
+    "ogDescription": {
+      "type": "text"
+    },
+    "ogUrl": {
+      "type": "string"
+    },
+    "ogSiteName": {
+      "type": "string"
+    },
+    "metaCanonical": {
+      "type": "string"
+    },
+    "metaKeywords": {
+      "type": "text"
+    },
+    "metaRobots": {
+      "type": "string"
+    },
+    "htmlLang": {
+      "type": "string"
+    },
+    "Schema": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.schema"
     }
   }
 }

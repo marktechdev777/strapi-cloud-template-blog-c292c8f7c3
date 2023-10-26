@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_shared_head_embeds",
+  "info": {
+    "displayName": "headEmbed"
+  },
+  "options": {},
+  "attributes": {
+    "markup": {
+      "type": "text"
+    }
+  }
+}

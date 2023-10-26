@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_shared_schemata",
+  "info": {
+    "displayName": "Schema"
+  },
+  "options": {},
+  "attributes": {
+    "schema": {
+      "type": "text"
+    }
+  }
+}
